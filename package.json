@@ -1,0 +1,10 @@
+{
+  "name": "yes-and",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Yes, And — a director's prompt-book improv replay, with a real live mode that plays against Anthropic models through a serverless proxy.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1"
+  }
+}
